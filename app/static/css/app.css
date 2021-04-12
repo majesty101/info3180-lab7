@@ -1,3 +1,36 @@
 body {
     padding-top: 5rem;
 }
+
+#but{
+    padding: 5px 15px;
+    background-color: #25bcf7;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+}
+
+#des{
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 100%;
+}
+
+label{
+    font-weight: bold;
+}
+
+.list .mess{
+    padding: 10px;
+    background-color: lightgreen;
+    color: darkgreen;
+    border-radius: 10px;
+}
+
+.list .err{
+    padding: 10px;
+    background-color: peachpuff;
+    color: darkred;
+    border-radius: 10px;
+}
